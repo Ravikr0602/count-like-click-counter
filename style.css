@@ -77,3 +77,11 @@ button
     color: #ff0047;
     cursor: pointer;
 } 
+
+@media screen and (max-width:768px) 
+{
+    .main
+    {
+        width: 80%;
+    }
+}
